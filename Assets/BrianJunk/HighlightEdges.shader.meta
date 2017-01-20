@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 328ecbfeb3215ec40951adc8f3456419
+timeCreated: 1484163650
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _GlowAreaMask: {fileID: 2800000, guid: 6b46f0a4c70ec2946b348aab16f55e72, type: 3}
+  - _NormalMap: {fileID: 2800000, guid: 66be8df3e9eaccd4fa06f8a98086f85c, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
